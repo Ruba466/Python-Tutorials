@@ -1,0 +1,1 @@
+This repository contains some of my basic Python programs created for practice and learning.
