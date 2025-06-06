@@ -15,6 +15,9 @@ Demonstrates the difference between printing characters with and without using f
 ### `output_to_file.py`
 Prints a string to a file using the file= parameter in the print() function. Output saved to Output.txt.
 
+### `python_operators.py`
+This Python program demonstrates the use of all basic types of **operators** in Python, using user input.
+
 ## 🚀 How to Run
 
 Make sure Python is installed. Run any script using:
