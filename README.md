@@ -9,7 +9,11 @@ A simple Python script that takes input from the user and calculates the sum of 
 ### `ReverseNumber.py`
 Takes an integer input and prints its reverse. Demonstrates use of loops, string slicing, or arithmetic logic.
 
+### flush.py
+Demonstrates the difference between printing characters with and without using flush in Python.
 
+### output_to_file.py
+Prints a string to a file using the file= parameter in the print() function. Output saved to Output.txt.
 
 ## 🚀 How to Run
 
