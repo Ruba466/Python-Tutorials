@@ -18,6 +18,12 @@ Prints a string to a file using the file= parameter in the print() function. Out
 ### `python_operators.py`
 This Python program demonstrates the use of all basic types of **operators** in Python, using user input.
 
+### `calendar1.py`
+This Python program to display the calendar of a given month and year
+
+### `calendar2.py`
+This Python program demonstrates the use of all basic types of **operators** in Python, using user input.
+
 ## 🚀 How to Run
 
 Make sure Python is installed. Run any script using:
