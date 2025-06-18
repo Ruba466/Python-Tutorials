@@ -27,6 +27,19 @@ This Python program demonstrates the use of all basic types of **operators** in 
 ### `python_loops.py`
 This Python program demonstrates basic loops and if-else, elif ladder statements.
 
+### `dict_tuple_set_list.py`
+A Python program demonstrating basic operations on list, dictionary, tuple, and set.Includes functions like add, remove, sort, union, intersection, and more with sample output.
+
+### `calculator.py`
+A simple calculator built using Python functions that performs addition, subtraction, multiplication, and division.Takes user input and displays the calculated result based on selected operation.
+
+### `Sort_lambda.py`
+A simple python program which uses lambda function to sort a list.
+
+### `inheritance_override.py`
+A Python program showing object-oriented concepts of inheritance and method overriding.Child classes override the parent class method to provide specific implementations.
+
+
 ## 🚀 How to Run
 
 Make sure Python is installed. Run any script using:
